@@ -15,16 +15,14 @@ I am a 2nd-year MPhil student in **Artificial Intelligence Thrust** at the **Hon
 | Degree | Institution | Period | Supervisors |
 |--------|-------------|--------|-------------|
 | **MPhil in Artificial Intelligence** | The Hong Kong University of Science and Technology, Guangzhou | 2023 - Present | [Prof. Xuming Hu](https://xuminghu.github.io/)<br>[Prof. Li Chen](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHEN-Li/chenlimeust)<br>[Prof. Yangqiu Song](https://home.cse.ust.hk/~yqsong/) |
-| **B.Eng** | China University of Mining and Technology, Beijing | 2019 - 2023 | [Prof. Kehu Yang](https://scholar.google.cz/citations?user=1yyy_VsAAAAJ&hl=zh-CN&oi=ao) |
+| **B.Eng in Information Engineering** | China University of Mining and Technology, Beijing | 2019 - 2023 | [Prof. Kehu Yang](https://scholar.google.cz/citations?user=1yyy_VsAAAAJ&hl=zh-CN&oi=ao) |
 
 ---
 
 ## 🔬 Research Interests
 
 - **Embodied AI** (Robot Learning, Embodied Intelligence)
-- **360° Perception** (Panoramic Vision, Scene Understanding)
-- **Computer Vision**
-- **Multi-modal Learning**
+- **360° Perception** (Panoramic Vision)
 ---
 
 ## 📢 Open to Opportunities!
@@ -34,7 +32,6 @@ I am a 2nd-year MPhil student in **Artificial Intelligence Thrust** at the **Hon
 **Preferred Fields:**
 - Embodied AI / Robotics Learning
 - 360° Vision / Panoramic Perception
-- Autonomous Systems
 - Multi-modal Embodied Intelligence
 
 ---
