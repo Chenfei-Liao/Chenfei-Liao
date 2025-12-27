@@ -1,3 +1,48 @@
-I am a 2rd-year MPhil student in AI Thrust at the Hong Kong University of Science and Technology, Guangzhou under the supervision of [Prof. Xuming HU @ HKUST(GZ)](https://xuminghu.github.io/), [Prof. Li CHEN @ HKUST(GZ)](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHEN-Li/chenlimeust) and [Prof. Yangqiu SONG @ HKUST](https://home.cse.ust.hk/~yqsong/). I completed my undergraduate studies at the China University of Mining and Technology, Beijing with the supervision of [Prof. Kehu YANG @ CUMTB](https://scholar.google.cz/citations?user=1yyy_VsAAAAJ&hl=zh-CN&oi=ao). I work closely with [Xu ZHENG @ HKUST(GZ) & INSAIT](https://zhengxujosh.github.io/), [Prof. Linfeng ZHANG @ SJTU](http://www.zhanglinfeng.tech/), and [Prof. Kailun YANG @ HNU](https://yangkailun.com/). Currently, I am actively looking for an visiting/internship position (Embodied AI, 360° Perception)!
+# Chenfei LIAO
 
-![Chenfei's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+**MPhil in AI @ HKUST(GZ) | Embodied AI & 360° Perception | Seeking Visiting/Internship Opportunities**
+
+---
+
+## 👋 About Me
+
+I am a 2nd-year MPhil student in **Artificial Intelligence Thrust** at the **Hong Kong University of Science and Technology, Guangzhou**. My research focuses on **Embodied AI** and **360° Perception**. I am currently actively seeking visiting or internship positions in these fields.
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period | Supervisors |
+|--------|-------------|--------|-------------|
+| **MPhil in Artificial Intelligence** | The Hong Kong University of Science and Technology, Guangzhou | 2023 - Present | [Prof. Xuming Hu](https://xuminghu.github.io/)<br>[Prof. Li Chen](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CHEN-Li/chenlimeust)<br>[Prof. Yangqiu Song](https://home.cse.ust.hk/~yqsong/) |
+| **B.Eng** | China University of Mining and Technology, Beijing | 2019 - 2023 | [Prof. Kehu Yang](https://scholar.google.cz/citations?user=1yyy_VsAAAAJ&hl=zh-CN&oi=ao) |
+
+---
+
+## 🔬 Research Interests
+
+- **Embodied AI** (Robot Learning, Embodied Intelligence)
+- **360° Perception** (Panoramic Vision, Scene Understanding)
+- **Computer Vision**
+- **Multi-modal Learning**
+---
+
+## 📢 Open to Opportunities!
+
+🎯 **Currently seeking:** Visiting scholar or internship positions
+
+**Preferred Fields:**
+- Embodied AI / Robotics Learning
+- 360° Vision / Panoramic Perception
+- Autonomous Systems
+- Multi-modal Embodied Intelligence
+
+---
+
+
+*Last updated: December 2025*
+
+
+---
+
+**Let's connect and explore possibilities in advancing Embodied AI and 360° Perception technologies!** 🤖👁️
